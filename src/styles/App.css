@@ -1,0 +1,9 @@
+.app-container {
+  max-width: 500px;
+  margin: 100px auto;
+  padding: 15px 2px;
+  box-shadow: 1px 1px 5px;
+  text-align: center;
+  border-radius: 1px;
+  background-image: url("https://images.unsplash.com/photo-1526028034489-f76e5a422446?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f191e636831750dc891d0713bd3b98aa&auto=format&fit=crop&w=1936&q=80")
+};
